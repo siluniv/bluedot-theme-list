@@ -7,5 +7,14 @@
         "previewUrl": "https://sadang.bluedot.so/",
         "ref": "siluniv/Sadang",
         "image": "assets/img/themes/Sadang.jpg"
+    },
+    {
+        "name": "Seoul",
+        "category": "Blog",
+        "externalLink": false,
+        "url": "https://github.com/siluniv/Seoul",
+        "previewUrl": "https://seoul.bluedot.so/",
+        "ref": "siluniv/Seoul",
+        "image": "assets/img/themes/Seoul.jpg"
     }
 ]
