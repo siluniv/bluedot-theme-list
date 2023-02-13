@@ -25,5 +25,14 @@
         "previewUrl": "https://isu.bluedot.so/",
         "ref": "siluniv/Isu",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Isu.jpg"
+    },
+    {
+        "name": "Seongsu",
+        "category": "Newsletter",
+        "externalLink": false,
+        "url": "https://github.com/siluniv/Seongsu",
+        "previewUrl": "https://dev.bluedot.so/",
+        "ref": "siluniv/Isu",
+        "image": "assets/img/themes/Dummy.jpg"
     }
 ]
