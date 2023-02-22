@@ -34,5 +34,14 @@
         "previewUrl": "https://seongsu.bluedot.so/",
         "ref": "siluniv/Seongsu",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Seongsu.png"
+    },
+    {
+        "name": "Anguk",
+        "category": "News",
+        "externalLink": true,
+        "url": "https://bluedot.so/blog/theme-ankuk/",
+        "previewUrl": "https://anguk.bluedot.so/",
+        "ref": "siluniv/Anguk",
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Anguk.png"
     }
 ]
