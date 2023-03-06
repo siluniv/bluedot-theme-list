@@ -6,7 +6,7 @@
         "url": "https://github.com/siluniv/Sadang",
         "previewUrl": "https://sadang.bluedot.so/",
         "ref": "siluniv/Sadang",
-        "image": "assets/img/themes/Sadang.jpg"
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Sadang.png"
     },
     {
         "name": "Seoul",
@@ -15,7 +15,7 @@
         "url": "https://github.com/siluniv/Seoul",
         "previewUrl": "https://seoul.bluedot.so/",
         "ref": "siluniv/Seoul",
-        "image": "assets/img/themes/Seoul.jpg"
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Seoul.jpg"
     },
     {
         "name": "Isu",
