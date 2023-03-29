@@ -43,5 +43,14 @@
         "previewUrl": "https://anguk.bluedot.so/",
         "ref": "siluniv/Anguk",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Anguk.png"
+    },
+    {
+        "name": "Mangwon",
+        "category": "VOD",
+        "externalLink": false,
+        "url": "https://github.com/siluniv/Mangwon",
+        "previewUrl": "https://mangown.bluedot.so/",
+        "ref": "siluniv/Mangwon",
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Mangwon.png"
     }
 ]
