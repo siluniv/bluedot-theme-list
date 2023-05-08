@@ -1,5 +1,14 @@
 [
     {
+        "name": "The Core",
+        "category": "News",
+        "externalLink": true,
+        "url": "https://bluedot.so/blog/tema-nyuseuhyeong-deokoeo-tema-gumae/",
+        "previewUrl": "https://thecore.media/",
+        "ref": "siluniv/Gwanghwamun",
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Gwanghwamun.png"
+    },
+    {
         "name": "Sadang",
         "category": "Newsletter",
         "externalLink": false,
