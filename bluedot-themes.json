@@ -1,5 +1,14 @@
 [
     {
+        "name": "Gangnam",
+        "category": "Media,Business",
+        "externalLink": true,
+        "url": "https://bluedot.so/blog/gangnamtheme/",
+        "previewUrl": "https://bluedot.so/blog/",
+        "ref": "siluniv/Gangnam",
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Gangnam.png"
+    },
+    {
         "name": "Gwanghwamun",
         "category": "News",
         "externalLink": true,
