@@ -1,5 +1,14 @@
 [
     {
+        "name": "Yeobaek",
+        "category": "Magazine",
+        "externalLink": true,
+        "url": "https://bluedot.so/blog/theme-yeobaek/",
+        "previewUrl": "https://bluedot.so/blog/",
+        "ref": "songheewon/Opini-Un",
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Yeobaek.png"
+    },
+    {
         "name": "Chunpo",
         "category": "Newsletter",
         "externalLink": true,
