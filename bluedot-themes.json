@@ -11,8 +11,8 @@
     {
         "name": "Chunpo",
         "category": "Newsletter",
-        "externalLink": true,
-        "url": "https://bluedot.so/blog/chunpo-theme/",
+        "externalLink": false,
+        "url": "https://github.com/siluniv/Chunpo",
         "previewUrl": "https://bluedot.so/blog/",
         "ref": "siluniv/Chunpo",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Chunpo.png"
