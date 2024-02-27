@@ -18,6 +18,15 @@
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Chunpo.png"
     },
     {
+        "name": "Suwon",
+        "category": "Business",
+        "externalLink": false,
+        "url": "https://github.com/songheewon/Suwon",
+        "previewUrl": "https://bluedot.so/blog/",
+        "ref": "songheewon/Suwon",
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Suwon.png"
+    },
+    {
         "name": "Gangnam",
         "category": "Media,Business",
         "externalLink": true,
