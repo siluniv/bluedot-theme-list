@@ -3,9 +3,9 @@
         "name": "Yeobaek",
         "category": "Magazine",
         "externalLink": false,
-        "url": "https://github.com/songheewon/Opini-Un",
-        "previewUrl": "https://bluedot.so/blog/",
-        "ref": "songheewon/Opini-Un",
+        "url": "https://github.com/songheewon/Yeobaek",
+        "previewUrl": "https://theme-yeobaek.withbluedot.site",
+        "ref": "songheewon/Yeobaek",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Yeobaek.png"
     },
     {
@@ -31,7 +31,7 @@
         "category": "Media,Business",
         "externalLink": false,
         "url": "https://github.com/songheewon/Gangnam",
-        "previewUrl": "https://bluedot.so/blog/",
+        "previewUrl": "https://theme-gangnam.withbluedot.site",
         "ref": "songheewon/Gangnam",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Gangnam.png"
     },
