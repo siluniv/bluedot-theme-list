@@ -93,9 +93,9 @@
         "name": "Mangwon",
         "category": "VOD",
         "externalLink": false,
-        "url": "https://github.com/siluniv/Mangwon",
+        "url": "https://github.com/songheewon/Mangwon",
         "previewUrl": "https://mangwon.bluedot.so/",
-        "ref": "siluniv/Mangwon",
+        "ref": "songheewon/Mangwon",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Mangwon.png"
     }
 ]
