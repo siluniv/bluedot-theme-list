@@ -29,10 +29,10 @@
     {
         "name": "Gangnam",
         "category": "Media,Business",
-        "externalLink": true,
-        "url": "https://bluedot.so/blog/gangnamtheme/",
+        "externalLink": false,
+        "url": "https://github.com/songheewon/Gangnam",
         "previewUrl": "https://bluedot.so/blog/",
-        "ref": "siluniv/Gangnam",
+        "ref": "songheewon/Gangnam",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Gangnam.png"
     },
     {
