@@ -2,8 +2,8 @@
     {
         "name": "Yeobaek",
         "category": "Magazine",
-        "externalLink": true,
-        "url": "https://bluedot.so/blog/theme-yeobaek/",
+        "externalLink": false,
+        "url": "https://github.com/songheewon/Opini-Un",
         "previewUrl": "https://bluedot.so/blog/",
         "ref": "songheewon/Opini-Un",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Yeobaek.png"
