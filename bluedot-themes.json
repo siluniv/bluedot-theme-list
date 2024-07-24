@@ -57,18 +57,18 @@
         "name": "Seoul",
         "category": "Blog",
         "externalLink": false,
-        "url": "https://github.com/siluniv/Seoul",
+        "url": "https://github.com/songheewon/Seoul",
         "previewUrl": "https://seoul.bluedot.so/",
-        "ref": "siluniv/Seoul",
+        "ref": "songheewon/Seoul",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Seoul.jpg"
     },
     {
         "name": "Isu",
         "category": "News",
         "externalLink": false,
-        "url": "https://github.com/siluniv/Isu",
+        "url": "https://github.com/songheewon/Isu",
         "previewUrl": "https://isu.bluedot.so/",
-        "ref": "siluniv/Isu",
+        "ref": "songheewon/Isu",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Isu.jpg"
     },
     {
