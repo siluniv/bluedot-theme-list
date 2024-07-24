@@ -84,9 +84,9 @@
         "name": "Anguk",
         "category": "News",
         "externalLink": true,
-        "url": "https://bluedot.so/blog/theme-ankuk/",
+        "url": "https://github.com/songheewon/Anguk",
         "previewUrl": "https://anguk.bluedot.so/",
-        "ref": "siluniv/Anguk",
+        "ref": "songheewon/Anguk",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Anguk.png"
     },
     {
