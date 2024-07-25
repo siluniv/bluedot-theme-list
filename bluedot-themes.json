@@ -83,7 +83,7 @@
     {
         "name": "Anguk",
         "category": "News",
-        "externalLink": true,
+        "externalLink": false,
         "url": "https://github.com/songheewon/Anguk",
         "previewUrl": "https://anguk.bluedot.so/",
         "ref": "songheewon/Anguk",
