@@ -97,14 +97,5 @@
         "previewUrl": "https://mangwon.bluedot.so/",
         "ref": "songheewon/Mangwon",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Mangwon.png"
-    },
-    {
-        "name": "Suwon2",
-        "category": "Business",
-        "externalLink": false,
-        "url": "https://github.com/songheewon/Suwon",
-        "previewUrl": "https://theme-suwon.withbluedot.site/",
-        "ref": "songheewon/Suwon",
-        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Suwon.png"
     }
 ]
