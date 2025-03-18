@@ -45,6 +45,15 @@
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Gwanghwamun.png"
     },
     {
+        "name": "Sadang",
+        "category": "Newsletter",
+        "externalLink": false,
+        "url": "https://github.com/songheewon/Sadang",
+        "previewUrl": "https://sadang.bluedot.so/",
+        "ref": "songheewon/Sadang",
+        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Sadang.png"
+    },
+    {
         "name": "Seoul",
         "category": "Blog",
         "externalLink": false,
@@ -70,14 +79,5 @@
         "previewUrl": "https://anguk.bluedot.so/",
         "ref": "songheewon/Anguk",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Anguk.png"
-    },
-    {
-        "name": "Mangwon",
-        "category": "VOD",
-        "externalLink": false,
-        "url": "https://github.com/songheewon/Mangwon",
-        "previewUrl": "https://mangwon.bluedot.so/",
-        "ref": "songheewon/Mangwon",
-        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Mangwon.png"
     }
 ]
