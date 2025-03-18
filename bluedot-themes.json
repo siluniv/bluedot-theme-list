@@ -45,15 +45,6 @@
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Gwanghwamun.png"
     },
     {
-        "name": "Sadang",
-        "category": "Newsletter",
-        "externalLink": false,
-        "url": "https://github.com/songheewon/Sadang",
-        "previewUrl": "https://sadang.bluedot.so/",
-        "ref": "songheewon/Sadang",
-        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Sadang.png"
-    },
-    {
         "name": "Seoul",
         "category": "Blog",
         "externalLink": false,
@@ -70,15 +61,6 @@
         "previewUrl": "https://isu.bluedot.so/",
         "ref": "songheewon/Isu",
         "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Isu.jpg"
-    },
-    {
-        "name": "Seongsu",
-        "category": "Newsletter",
-        "externalLink": false,
-        "url": "https://github.com/songheewon/Seongsu",
-        "previewUrl": "https://seongsu.bluedot.so/",
-        "ref": "songheewon/Seongsu",
-        "image": "https://storage.googleapis.com/cdn.media.bluedot.so/themes/Seongsu.png"
     },
     {
         "name": "Anguk",
